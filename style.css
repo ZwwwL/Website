@@ -1,0 +1,36 @@
+style>
+        body{
+            background-color:bisque;
+            padding: 5%
+        }
+        .title{
+            font-family: 'Times New Roman', Times, serif;
+            text-align: center;
+        }
+
+        .main{
+            border-radius: 10%;
+        }
+
+        .img{width: 300px;
+            border-radius: 10%;
+        }
+        a{
+            display: block;
+            color: aliceblue;
+            background-color: blue;
+            
+            margin: 20px;
+            padding: 20px;
+
+            border-width:5px;
+            border-color: blue;
+        }
+
+        a:hover{
+            background-color: white;
+            color:blue
+            
+        }
+
+    <style>
